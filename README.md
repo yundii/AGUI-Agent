@@ -1,10 +1,5 @@
 # Build your own AI Agent using Microsoft Agent Framework & AG-UI
 
-**Looking for something specific?**
-
-- [AG-UI Blazor app](https://github.com/jasmin-software/dotnet_agui_blazor_demo)
-- [Workshop slides](./Slides.pdf)
-
 ## Overview
 
 **Build an AI agent console app using AG-UI.**
